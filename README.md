@@ -1,7 +1,9 @@
 # hospendando_site
 
 #ETAPA 1
-
+<div align="left">
+  <img src="https://github.com/WenkerI/hospendando_site/blob/main/1.png"\>
+</div>
 Primeiro passo é voce 
 #ETAPA 2
 #ETAPA 3

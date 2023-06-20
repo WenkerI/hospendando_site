@@ -5,6 +5,9 @@
   <img src="https://github.com/WenkerI/hospendando_site/blob/main/1.png"\>
 </div>
 <div align="left">
+  <img src="https://github.com/WenkerI/hospendando_site/blob/main/1.5.png"\>
+</div>
+<div align="left">
   <img src="https://github.com/WenkerI/hospendando_site/blob/main/2.png"\>
 </div>
 <div align="left">

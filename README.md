@@ -2,7 +2,7 @@
 
 # ETAPA 1:
 
-crie uma conta ou entre no site HOSTINGER
+Crie uma conta ou logue no site HOSTINGER
 
 <div align="left">
   <img src="https://github.com/WenkerI/hospendando_site/blob/main/1.png"\>
@@ -10,7 +10,7 @@ crie uma conta ou entre no site HOSTINGER
 
 # ETAPA 2:
 
-Depois clicle aqui para escolher um plano
+Depois clique aqui para escolher um plano
 
 <div align="left">
   <img src="https://github.com/WenkerI/hospendando_site/blob/main/1.5.png"\>
@@ -18,7 +18,7 @@ Depois clicle aqui para escolher um plano
 
 # ETAPA 3:
 
-Escolhe um plano que atenda as suas necessidades 
+Escolha um plano que melhor atenda as suas necessidades 
 
 <div align="left">
   <img src="https://github.com/WenkerI/hospendando_site/blob/main/2.png"\>
@@ -34,7 +34,7 @@ Depois clique em dominios
 
 # ETAPA 5:
 
-Clique em compre um novo dominio , escolha o nome do dominio
+Clique em compre um novo dominio , escolha o nome do dominio que voce deseja colocar no seu site e depois compre 
 
 <div align="left">
   <img src="https://github.com/WenkerI/hospendando_site/blob/main/4.png"\>
@@ -50,7 +50,7 @@ Clique em sites e depois em criar ou migrar o seu site
 
 # ETAPA 7:
 
-Depois voce clica em " pular " para evitar bagunça 
+Depois você   clica em " pular " para evitar bagunça 
 
 <div align="left">
   <img src="https://github.com/WenkerI/hospendando_site/blob/main/6.png"\>
@@ -58,7 +58,7 @@ Depois voce clica em " pular " para evitar bagunça
 
 # ETAPA 8:
 
-Agora voce seleciona aquele dominio que voce comprou
+Agora você seleciona aquele dominio que voce comprou
 
 <div align="left">
   <img src="https://github.com/WenkerI/hospendando_site/blob/main/7.png"\>
@@ -74,7 +74,7 @@ Clique em gerenciar site
 
 # ETAPA 10:
 
-Vamos no gerenciador de arquivos para adicionar o site
+Vamos no gerenciador de arquivos para adicionar os arquivos do site
 
 <div align="left">
   <img src="https://github.com/WenkerI/hospendando_site/blob/main/9.png"\>
@@ -90,7 +90,7 @@ Entre na pasta " public_html "
 
 # ETAPA 12:
 
-Agora vai na pasta onde esta os arquivos do site que voce e selecione tudo
+Agora vai na pasta onde esta os arquivos do site que voce deseja postar e selecione todos os arquivos
 
 <div align="left">
   <img src="https://github.com/WenkerI/hospendando_site/blob/main/11.png"\>
@@ -98,7 +98,7 @@ Agora vai na pasta onde esta os arquivos do site que voce e selecione tudo
 
 # ETAPA 13:
 
-E arrasta todos os arquivos para dentro da pasta
+E arraste todos os arquivos para dentro da pasta public html e pronto, so acessar o seu site a partir do dominio que esta nele que ele ja estará hospedado 
 
 <div align="left">
   <img src="https://github.com/WenkerI/hospendando_site/blob/main/12.png"\>
@@ -106,7 +106,7 @@ E arrasta todos os arquivos para dentro da pasta
 
 # ETAPA 14:
 
-Agora vamos upar o site em ftp , primeiro voce entra no seu localhost/adimin e clique em novo
+Agora vamos upar o site em FTP , primeiro voce deve entrar no seu localhost/adimin e clique em novo
 
 <div align="left">
   <img src="https://github.com/WenkerI/hospendando_site/blob/main/13.png"\>
@@ -114,7 +114,7 @@ Agora vamos upar o site em ftp , primeiro voce entra no seu localhost/adimin e c
 
 # ETAPA 15:
 
-Crie um banco de dados 
+Escolha um nome para seu banco de dados e crie
 
 <div align="left">
   <img src="https://github.com/WenkerI/hospendando_site/blob/main/14.png"\>
@@ -154,7 +154,7 @@ Clique em sites novamente e depois em gerenciar
 
 # ETAPA 20:
 
-Arraste para baixo 
+Arraste a tela para baixo 
 
 <div align="left">
   <img src="https://github.com/WenkerI/hospendando_site/blob/main/19.png"\>
@@ -162,7 +162,7 @@ Arraste para baixo
 
 # ETAPA 21:
 
-Vai em contas FTP , escolha um nome de usuario e uma senha ( guarde elas ) 
+Vai em contas FTP , escolha um nome de usuario e uma senha ( memorize elas ) 
 
 <div align="left">
   <img src="https://github.com/WenkerI/hospendando_site/blob/main/20.png"\>
@@ -170,7 +170,7 @@ Vai em contas FTP , escolha um nome de usuario e uma senha ( guarde elas )
 
 # ETAPA 22:
 
-Depois copie e cole dentro do aplicativo ( FileZilla )
+Depois copie e cada uma dessas etapas dentro do aplicativo ( FileZilla )
 
 <div align="left">
   <img src="https://github.com/WenkerI/hospendando_site/blob/main/21.png"\>
@@ -178,7 +178,7 @@ Depois copie e cole dentro do aplicativo ( FileZilla )
 
 # ETAPA 23:
 
-Vai pegar o host , o nome de usuario, a senha e a porta e colar cada um no seu lugar 
+Cole cada parte no lugar certo , o host, Nome de usuario, Senha e a porta, depois clique em conexão rapida 
 
 <div align="left">
   <img src="https://github.com/WenkerI/hospendando_site/blob/main/22.png"\>
@@ -186,7 +186,7 @@ Vai pegar o host , o nome de usuario, a senha e a porta e colar cada um no seu l
 
 # ETAPA 24:
 
-Depois selecione os arquivos do seu site e arraste para o FileZilla
+Apos isso selecione os arquivos do seu site e arraste para o FileZilla
 
 <div align="left">
   <img src="https://github.com/WenkerI/hospendando_site/blob/main/23.png"\>
